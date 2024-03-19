@@ -26,3 +26,9 @@ By choosing the appropriate program number when prompted, each program can be ex
 - Name: Deepika TR
 - USN: 4MH21CS020
 - Faculty Name: Victor Ikechukwu Agughasi
+
+ ## Contributer
+  [victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu )
+  
+  [Deepika T R](https://github.com/Deepikatr199)
+  
